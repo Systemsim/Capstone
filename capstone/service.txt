@@ -1,0 +1,205 @@
+import 'package:flutter/material.dart';
+
+class Services extends StatelessWidget {
+    const Services({super.key});
+    
+    
+    @override
+    Widget build(BuildContext context) {
+        return Scaffold(
+            body: SafeArea(
+				child: Container(
+					constraints: BoxConstraints.expand(),
+					color: Color(0xFFFFFFFF),
+					child: Column(
+						crossAxisAlignment: CrossAxisAlignment.start,
+						children: [
+							Expanded(
+								child: Container(
+									color: Color(0xFFffffff),
+									padding: EdgeInsets.only( bottom: 60),
+									width: double.infinity,
+									height: double.infinity,
+									child: SingleChildScrollView(
+										child: Column(
+											crossAxisAlignment: CrossAxisAlignment.start,
+											children: [
+												IntrinsicHeight(
+													child: Container(
+														decoration: BoxDecoration(
+															borderRadius: BorderRadius.only(
+																bottomRight: Radius.circular(40),
+																bottomLeft: Radius.circular(40),
+															),
+															color: Color(0xFF191d46),
+														),
+														padding: EdgeInsets.only( top: 52, bottom: 7, left: 19, right: 19),
+														margin: EdgeInsets.only( bottom: 39),
+														width: double.infinity,
+														child: Row(
+															crossAxisAlignment: CrossAxisAlignment.start,
+															children: [
+																Expanded(
+																	child: IntrinsicHeight(
+																		child: Container(
+																			margin: EdgeInsets.only( right: 4),
+																			width: double.infinity,
+																			child: Column(
+																				crossAxisAlignment: CrossAxisAlignment.start,
+																				children: [
+																					IntrinsicHeight(
+																						child: Container(
+																							decoration: BoxDecoration(
+																								borderRadius: BorderRadius.circular(40),
+																								color: Color(0xFFd9d9d9),
+																							),
+																							margin: EdgeInsets.only( bottom: 5),
+																							width: double.infinity,
+																							child: SizedBox(),
+																						),
+																					),
+																					IntrinsicHeight(
+																						child: Container(
+																							decoration: BoxDecoration(
+																								borderRadius: BorderRadius.circular(40),
+																								color: Color(0xFFd9d9d9),
+																							),
+																							margin: EdgeInsets.only( bottom: 5),
+																							width: double.infinity,
+																							child: SizedBox(),
+																						),
+																					),
+																					IntrinsicHeight(
+																						child: Container(
+																							decoration: BoxDecoration(
+																								borderRadius: BorderRadius.circular(40),
+																								color: Color(0xFFd9d9d9),
+																							),
+																							width: double.infinity,
+																							child: SizedBox(),
+																						),
+																					),
+																				]
+																			),
+																		),
+																	),
+																),
+																IntrinsicHeight(
+																	child: Text(
+																		'Services',
+																		style: TextStyle(
+																			color: Color(0xFFffffff),
+																			fontSize: 64,
+																		),
+																	),
+																),
+															]
+														),
+													),
+												),
+												IntrinsicHeight(
+													child: Container(
+														decoration: BoxDecoration(
+															color: Color(0xFFebf3ff),
+															boxShadow: [
+																BoxShadow(
+																	color: Color(0x4D000000),
+																	blurRadius: 4,
+																	offset: Offset(0, 4),
+																),
+															],
+														),
+														padding: EdgeInsets.only( top: 22, bottom: 95, left: 22, right: 22),
+														margin: EdgeInsets.only( bottom: 69, left: 23, right: 23),
+														width: double.infinity,
+														child: Column(
+															crossAxisAlignment: CrossAxisAlignment.start,
+															children: [
+																Container(
+																	width: double.infinity,
+																	child: Text(
+																		'Accounting and Bookkeeping\nService',
+																		style: TextStyle(
+																			color: Color(0xFF000000),
+																			fontSize: 15,
+																			fontWeight: FontWeight.bold,
+																		),
+																	),
+																),
+															]
+														),
+													),
+												),
+												IntrinsicHeight(
+													child: Container(
+														decoration: BoxDecoration(
+															color: Color(0xFFebf3ff),
+															boxShadow: [
+																BoxShadow(
+																	color: Color(0x4D000000),
+																	blurRadius: 4,
+																	offset: Offset(0, 4),
+																),
+															],
+														),
+														padding: EdgeInsets.only( top: 25, bottom: 107, left: 21, right: 21),
+														margin: EdgeInsets.only( bottom: 68, left: 19, right: 19),
+														width: double.infinity,
+														child: Column(
+															crossAxisAlignment: CrossAxisAlignment.start,
+															children: [
+																Text(
+																	'Upload and Download Pdf',
+																	style: TextStyle(
+																		color: Color(0xFF000000),
+																		fontSize: 15,
+																		fontWeight: FontWeight.bold,
+																	),
+																),
+															]
+														),
+													),
+												),
+												IntrinsicHeight(
+													child: Container(
+														decoration: BoxDecoration(
+															color: Color(0xFFebf3ff),
+															boxShadow: [
+																BoxShadow(
+																	color: Color(0x4D000000),
+																	blurRadius: 4,
+																	offset: Offset(0, 4),
+																),
+															],
+														),
+														padding: EdgeInsets.only( top: 33, bottom: 99, left: 16, right: 16),
+														margin: EdgeInsets.symmetric(horizontal: 23),
+														width: double.infinity,
+														child: Column(
+															crossAxisAlignment: CrossAxisAlignment.start,
+															children: [
+																Text(
+																	'Gst Calculator',
+																	style: TextStyle(
+																		color: Color(0xFF000000),
+																		fontSize: 15,
+																		fontWeight: FontWeight.bold,
+																	),
+																),
+															]
+														),
+													),
+												),
+											],
+										)
+									),
+								),
+							),
+						],
+					),
+				),
+			),
+			
+        );
+    }
+}

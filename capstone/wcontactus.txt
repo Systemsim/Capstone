@@ -1,0 +1,594 @@
+<div class="contact-us-2oo" id="241:733">
+<div class="rectangle-3852-rH3" id="243:442"></div>
+<div class="rectangle-3850-8kM" id="243:440"></div>
+<div class="group-2322-Fpy" id="241:734">
+<div class="group-313-Yp5" id="241:735">
+<p class="up-return-1hf" id="241:749">
+Up
+
+<br/>
+Return
+
+</p>
+<div class="auto-group-ksrs-5Sd" id="Lvgdu7b6kHxbb1qN89KSRs">
+<img class="group-2321-PCR" src="/api/prod-ap-southeast-1-first-cluster/projects/Kc..." id="241:750"/>
+<div class="group-314-hU1" id="241:737">
+<p class="dashboard-QdK" id="241:747">Dashboard</p>
+<p class="services-xqB" id="241:746">Services</p>
+<p class="about-us-4dK" id="241:739">About us</p>
+<p class="contact-us-yEV" id="241:740">Contact us</p>
+<p class="upload-pdf-fd7" id="241:744">Upload pdf</p>
+<p class="download-pdf-xs7" id="241:745">Download pdf</p>
+<p class="reminder-sjB" id="241:742">Reminder</p>
+<p class="feedback-AyB" id="241:741">Feedback </p>
+<p class="news-updates-VEm" id="241:738">News &amp; Updates</p>
+<p class="gst-calculator-p29" id="241:748">Gst Calculator</p>
+<p class="settings-WvZ" id="241:743">Settings</p>
+</div>
+</div>
+</div>
+<div class="rectangle-10-cih" id="241:803"></div>
+<p class="item-9889665789-9Tj" id="241:906">9889665789</p>
+<p class="ishagmailcom-DiV" id="241:908">isha@gmail.com</p>
+<p class="simrangmailcom-JE9" id="241:909">simran@gmail.com</p>
+<p class="contact-us-QY5" id="241:851">Contact us</p>
+<p class="first-name-ujj" id="243:420">First Name</p>
+<p class="phone-no-125" id="243:422">Phone no</p>
+<p class="last-name-VT3" id="243:421">Last Name</p>
+<p class="email-CcM" id="243:425">Email</p>
+<p class="message-uFs" id="243:426">Message</p>
+<p class="subject-oc9" id="243:427">Subject</p>
+<p class="item-7486960487-7Mw" id="241:904">7486960487</p>
+<p class="soni-CeH" id="241:901">Soni</p>
+<p class="khatri-v4V" id="241:902">Khatri</p>
+<p class="khatri-ci1" id="241:903">Khatri</p>
+<p class="isha-KcR" id="241:891">Isha</p>
+<p class="simran-dt1" id="241:892">Simran</p>
+<p class="mansi-wth" id="241:890">Mansi</p>
+<p class="item-9858965789-3wj" id="241:905">9858965789</p>
+<p class="mansigmailcom-wXK" id="241:907">mansi@gmail.com</p>
+<p class="advice-F2D" id="243:443">Advice</p>
+<p class="inquiry-Z2u" id="243:444">Inquiry</p>
+<p class="inquiry-GT7" id="243:445">Inquiry</p>
+<p class="item--Nm3" id="243:446">-</p>
+<p class="item--H7K" id="243:447">-</p>
+<p class="item--n45" id="243:448">-</p>
+</div>
+</div>
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+.contact-us-2oo {
+  background-color: #ffffff;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .rectangle-3852-rH3 {
+    background-color: #1a54ab;
+    height: 6.8rem;
+    left: 37.6rem;
+    position: absolute;
+    top: 51.2rem;
+    width: 104.2rem;
+  }
+  .rectangle-3850-8kM {
+    background-color: #1a54ab;
+    height: 6.8rem;
+    left: 37.6rem;
+    position: absolute;
+    top: 16.4rem;
+    width: 104.2rem;
+  }
+  .group-2322-Fpy {
+    height: 102.4rem;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 144rem;
+
+    .group-313-Yp5 {
+      align-items: center;
+      background-color: #ebf3ff;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      height: 102.4rem;
+      left: 0;
+      padding: 4.6rem 4.9rem 33.804rem 7.4rem;
+      position: absolute;
+      top: 0;
+      width: 34.5rem;
+
+      .up-return-1hf {
+        color: #173580;
+        flex-shrink: 0;
+        font-family: Jomhuria, 'Source Sans Pro';
+        font-size: 12.8rem;
+        font-weight: 400;
+        line-height: 0.4609375;
+        margin: 0rem 1.1rem 2.5rem 0rem;
+        max-width: 21.1rem;
+      }
+      .auto-group-ksrs-5Sd {
+        align-items: flex-end;
+        display: flex;
+        flex-shrink: 0;
+        margin-left: 0.1rem;
+        width: calc(100% - 0.1rem);
+
+        .group-2321-PCR {
+          flex-shrink: 0;
+          height: 48.8964rem;
+          margin-right: 3.8215rem;
+          object-fit: contain;
+          position: relative;
+          vertical-align: top;
+          width: 2.4785rem;
+        }
+        .group-314-hU1 {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          margin-bottom: 0.4964rem;
+
+          .dashboard-QdK {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin-bottom: 2.2rem;
+            white-space: nowrap;
+          }
+          .services-xqB {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .about-us-4dK {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .contact-us-yEV {
+            color: #000000;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.1rem 0.1rem;
+            white-space: nowrap;
+          }
+          .upload-pdf-fd7 {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .download-pdf-xs7 {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .reminder-sjB {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .feedback-AyB {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .news-updates-VEm {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin-bottom: 2.1rem;
+            white-space: nowrap;
+          }
+          .gst-calculator-p29 {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.1rem 0.1rem;
+            white-space: nowrap;
+          }
+          .settings-WvZ {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin-left: 0.2rem;
+            white-space: nowrap;
+          }
+        }
+      }
+    }
+    .rectangle-10-cih {
+      background-color: #191d46;
+      height: 12.1rem;
+      left: 34rem;
+      position: absolute;
+      top: 0;
+      width: 110rem;
+    }
+    .item-9889665789-9Tj {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 400;
+      height: 5.9rem;
+      left: 123.7rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 41.8rem;
+      white-space: nowrap;
+      width: 17.2rem;
+    }
+    .ishagmailcom-DiV {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 400;
+      height: 5.9rem;
+      left: 37.6rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 71.1rem;
+      white-space: nowrap;
+      width: 21.5rem;
+    }
+    .simrangmailcom-JE9 {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 400;
+      height: 5.9rem;
+      left: 37.6rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 79.2rem;
+      white-space: nowrap;
+      width: 25rem;
+    }
+    .contact-us-QY5 {
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 5rem;
+      font-weight: 600;
+      height: 5.9rem;
+      left: 40.9rem;
+      line-height: 1.18;
+      position: absolute;
+      top: 4rem;
+      white-space: nowrap;
+      width: 26.4rem;
+    }
+    .first-name-ujj {
+      color: #ebf3ff;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 600;
+      height: 5.9rem;
+      left: 38.8rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 17.2rem;
+      white-space: nowrap;
+      width: 14.7rem;
+    }
+    .phone-no-125 {
+      color: #ebf3ff;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 600;
+      height: 5.9rem;
+      left: 123.7rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 16.9rem;
+      white-space: nowrap;
+      width: 12.7rem;
+    }
+    .last-name-VT3 {
+      color: #ebf3ff;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 600;
+      height: 5.9rem;
+      left: 81.8rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 16.9rem;
+      white-space: nowrap;
+      width: 14.4rem;
+    }
+    .email-CcM {
+      color: #ebf3ff;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 600;
+      height: 5.9rem;
+      left: 39.9rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 51.7rem;
+      white-space: nowrap;
+      width: 7.3rem;
+    }
+    .message-uFs {
+      color: #ebf3ff;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 600;
+      height: 5.9rem;
+      left: 121.4rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 51.7rem;
+      white-space: nowrap;
+      width: 12.3rem;
+    }
+    .subject-oc9 {
+      color: #ebf3ff;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 600;
+      height: 5.9rem;
+      left: 82.5rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 51.7rem;
+      white-space: nowrap;
+      width: 10.4rem;
+    }
+    .item-7486960487-7Mw {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 400;
+      height: 5.9rem;
+      left: 123.7rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 25.2rem;
+      white-space: nowrap;
+      width: 17.1rem;
+    }
+    .soni-CeH {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 400;
+      height: 5.9rem;
+      left: 86.1rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 25.6rem;
+      white-space: nowrap;
+      width: 5.8rem;
+    }
+    .khatri-v4V {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 400;
+      height: 5.9rem;
+      left: 85.8rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 33rem;
+      white-space: nowrap;
+      width: 7.8rem;
+    }
+    .khatri-ci1 {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 400;
+      height: 5.9rem;
+      left: 86.1rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 40.2rem;
+      white-space: nowrap;
+      width: 7.8rem;
+    }
+    .isha-KcR {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 400;
+      height: 5.9rem;
+      left: 40.4rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 33rem;
+      white-space: nowrap;
+      width: 5.5rem;
+    }
+    .simran-dt1 {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 400;
+      height: 5.9rem;
+      left: 40.4rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      text-align: center;
+      top: 40rem;
+      white-space: nowrap;
+      width: 9.2rem;
+    }
+    .mansi-wth {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 400;
+      height: 5.9rem;
+      left: 40.4rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 25.5rem;
+      white-space: nowrap;
+      width: 7.9rem;
+    }
+    .item-9858965789-3wj {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 400;
+      height: 5.9rem;
+      left: 123.7rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 33.6rem;
+      white-space: nowrap;
+      width: 17.2rem;
+    }
+    .mansigmailcom-wXK {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 400;
+      height: 5.9rem;
+      left: 37.6rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 62.7rem;
+      white-space: nowrap;
+      width: 23.9rem;
+    }
+    .advice-F2D {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 400;
+      height: 5.9rem;
+      left: 82.5rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 62.2rem;
+      white-space: nowrap;
+      width: 9.1rem;
+    }
+    .inquiry-Z2u {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 400;
+      height: 5.9rem;
+      left: 82.5rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 70.7rem;
+      white-space: nowrap;
+      width: 9.1rem;
+    }
+    .inquiry-GT7 {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 400;
+      height: 5.9rem;
+      left: 82.5rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 79.2rem;
+      white-space: nowrap;
+      width: 9.1rem;
+    }
+    .item--Nm3 {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 400;
+      height: 5.9rem;
+      left: 127.6rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 62.7rem;
+      white-space: nowrap;
+      width: 1.3rem;
+    }
+    .item--H7K {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 400;
+      height: 5.9rem;
+      left: 127.6rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 78.9rem;
+      white-space: nowrap;
+      width: 1.3rem;
+    }
+    .item--n45 {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.8rem;
+      font-weight: 400;
+      height: 5.9rem;
+      left: 127.6rem;
+      line-height: 2.1071428571;
+      position: absolute;
+      top: 70rem;
+      white-space: nowrap;
+      width: 1.3rem;
+    }
+  }
+}

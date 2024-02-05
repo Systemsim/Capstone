@@ -1,0 +1,467 @@
+<div class="download-pdf-EdT" id="243:891">
+<div class="group-2322-fyf" id="243:892">
+<div class="group-313-QwF" id="243:893">
+<p class="up-return-s49" id="243:907">
+Up
+
+<br/>
+Return
+
+</p>
+<div class="auto-group-neb7-JQM" id="LvgjjSsMSGyVg1Ze4LNeB7">
+<img class="group-2321-DXK" src="/api/prod-ap-southeast-1-first-cluster/projects/Kc..." id="250:2849"/>
+<div class="group-314-jkZ" id="243:895">
+<p class="dashboard-TRf" id="243:905">Dashboard</p>
+<p class="services-k5K" id="243:904">Services</p>
+<p class="about-us-RhF" id="243:897">About us</p>
+<p class="contact-us-8rZ" id="243:898">Contact us</p>
+<p class="upload-pdf-dYR" id="243:902">Upload pdf</p>
+<p class="download-pdf-8VB" id="243:903">Download pdf</p>
+<p class="reminder-RDP" id="243:900">Reminder</p>
+<p class="feedback-vfw" id="243:899">Feedback </p>
+<p class="news-updates-3Em" id="243:896">News &amp; Updates</p>
+<p class="gst-calculator-ZU1" id="243:906">Gst Calculator</p>
+<p class="settings-sjb" id="243:901">Settings</p>
+</div>
+</div>
+</div>
+<div class="rectangle-10-y1w" id="243:961"></div>
+<p class="download-pdf-6MT" id="243:971">Download pdf</p>
+<div class="download-PbT" id="243:972">
+<div class="group-327-smX" id="243:980">
+<div class="group-326-aA9" id="243:982">
+<div class="item--7fs" id="243:983">#</div>
+<div class="file-2nq" id="243:984">File </div>
+<div class="view-xRb" id="243:986">View</div>
+<div class="download-s2m" id="243:985">Download</div>
+</div>
+<div class="returnpdf-view-download-C53" id="243:987">
+<span class="returnpdf-view-download-C53-sub-0">1 return.pdf </span>
+<span class="returnpdf-view-download-C53-sub-1">View</span>
+<span class="returnpdf-view-download-C53-sub-2"></span>
+<span class="returnpdf-view-download-C53-sub-3">Download</span>
+</div>
+<div class="billpdf-view-download-wyf" id="243:989">
+<span class="billpdf-view-download-wyf-sub-0">2 bill.pdf </span>
+<span class="billpdf-view-download-wyf-sub-1">View</span>
+<span class="billpdf-view-download-wyf-sub-2"></span>
+<span class="billpdf-view-download-wyf-sub-3">Download</span>
+</div>
+<div class="taxpdf-view-download-vj7" id="243:988">
+<span class="taxpdf-view-download-vj7-sub-0">3 tax.pdf </span>
+<span class="taxpdf-view-download-vj7-sub-1">View</span>
+<span class="taxpdf-view-download-vj7-sub-2"></span>
+<span class="taxpdf-view-download-vj7-sub-3">Download</span>
+</div>
+</div>
+<img class="component-lottie-https-assets8lottiefilescom-packages-lf20komemhfljson-RC1" src="/api/prod-ap-southeast-1-first-cluster/projects/Kc..." id="243:973"/>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+.download-pdf-EdT {
+  background-color: #ffffff;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .group-2322-fyf {
+    height: 100%;
+    position: relative;
+    width: 100%;
+
+    .group-313-QwF {
+      align-items: center;
+      background-color: #ebf3ff;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      height: 102.4rem;
+      left: 0;
+      padding: 4.6rem 4.9rem 34.3rem 7.4rem;
+      position: absolute;
+      top: 0;
+      width: 34.5rem;
+
+      .up-return-s49 {
+        color: #173580;
+        flex-shrink: 0;
+        font-family: Jomhuria, 'Source Sans Pro';
+        font-size: 12.8rem;
+        font-weight: 400;
+        line-height: 0.4609375;
+        margin: 0rem 1.1rem 2.5rem 0rem;
+        max-width: 21.1rem;
+      }
+      .auto-group-neb7-JQM {
+        align-items: flex-start;
+        display: flex;
+        flex-shrink: 0;
+        height: 49.2rem;
+        margin-left: 1.8rem;
+        width: calc(100% - 1.8rem);
+
+        .group-2321-DXK {
+          flex-shrink: 0;
+          height: 48.8964rem;
+          margin-right: 2.1215rem;
+          object-fit: contain;
+          position: relative;
+          vertical-align: top;
+          width: 2.4785rem;
+        }
+        .group-314-jkZ {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          height: 100%;
+
+          .dashboard-TRf {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin-bottom: 2.2rem;
+            white-space: nowrap;
+          }
+          .services-k5K {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .about-us-RhF {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .contact-us-8rZ {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.1rem 0.1rem;
+            white-space: nowrap;
+          }
+          .upload-pdf-dYR {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .download-pdf-8VB {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .reminder-RDP {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .feedback-vfw {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .news-updates-3Em {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin-bottom: 2.1rem;
+            white-space: nowrap;
+          }
+          .gst-calculator-ZU1 {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.1rem 0.1rem;
+            white-space: nowrap;
+          }
+          .settings-sjb {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin-left: 0.2rem;
+            white-space: nowrap;
+          }
+        }
+      }
+    }
+    .rectangle-10-y1w {
+      background-color: #191d46;
+      height: 12.1rem;
+      left: 34rem;
+      position: absolute;
+      top: 0;
+      width: 110rem;
+    }
+    .download-pdf-6MT {
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 5rem;
+      font-weight: 600;
+      height: 6.1rem;
+      left: 39.6rem;
+      line-height: 1.2125;
+      position: absolute;
+      top: 3.9rem;
+      white-space: nowrap;
+      width: 33.6rem;
+    }
+    .download-PbT {
+      align-items: center;
+      background-color: #ffffff;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      height: 81.1rem;
+      left: 39.6rem;
+      overflow: hidden;
+      padding: 7.6rem 0rem 3.4rem 0.6rem;
+      position: absolute;
+      top: 15.3rem;
+      width: 98.7rem;
+
+      .group-327-smX {
+        background-color: #ebf3ff;
+        border-radius: 2rem;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        margin-bottom: 8.4rem;
+        padding: 2.021rem 2.255rem 4.061rem 2.255rem;
+        width: 100%;
+
+        .group-326-aA9 {
+          align-items: center;
+          display: flex;
+          flex-shrink: 0;
+          margin-bottom: 4.9011rem;
+
+          .item--7fs {
+            color: #000000;
+            display: flex;
+            flex-shrink: 0;
+            font-family: Roboto, 'Source Sans Pro';
+            font-size: 2.2rem;
+            font-weight: 400;
+            line-height: 1.0909090909;
+            margin-right: 10.1577rem;
+            white-space: nowrap;
+          }
+          .file-2nq {
+            color: #000000;
+            display: flex;
+            flex-shrink: 0;
+            font-family: Roboto, 'Source Sans Pro';
+            font-size: 2.2rem;
+            font-weight: 400;
+            line-height: 1.0909090909;
+            margin-right: 30.6733rem;
+            white-space: nowrap;
+          }
+          .view-xRb {
+            color: #000000;
+            display: flex;
+            flex-shrink: 0;
+            font-family: Roboto, 'Source Sans Pro';
+            font-size: 2.2rem;
+            font-weight: 400;
+            line-height: 1.0909090909;
+            margin-right: 15.2146rem;
+            white-space: nowrap;
+          }
+          .download-s2m {
+            color: #000000;
+            display: flex;
+            flex-shrink: 0;
+            font-family: Roboto, 'Source Sans Pro';
+            font-size: 2.2rem;
+            font-weight: 400;
+            line-height: 1.0909090909;
+            white-space: nowrap;
+          }
+        }
+        .returnpdf-view-download-C53 {
+          align-items: baseline;
+          color: #000000;
+          display: flex;
+          flex-shrink: 0;
+          font-family: Roboto, 'Source Sans Pro';
+          font-size: 2.2rem;
+          font-weight: 400;
+          line-height: 1.0909090909;
+          margin: 0rem 0rem 4.928rem 0.564rem;
+          white-space: nowrap;
+
+          .returnpdf-view-download-C53-sub-0 {
+          }
+          .returnpdf-view-download-C53-sub-1 {
+            color: #2079ff;
+            font-family: Roboto, 'Source Sans Pro';
+            font-size: 2.2rem;
+            font-weight: 400;
+            line-height: 1.0909090909;
+            text-decoration-line: underline;
+          }
+          .returnpdf-view-download-C53-sub-2 {
+          }
+          .returnpdf-view-download-C53-sub-3 {
+            color: #2079ff;
+            font-family: Roboto, 'Source Sans Pro';
+            font-size: 2.2rem;
+            font-weight: 400;
+            line-height: 1.0909090909;
+            text-decoration-line: underline;
+          }
+        }
+        .billpdf-view-download-wyf {
+          align-items: baseline;
+          color: #000000;
+          display: flex;
+          flex-shrink: 0;
+          font-family: Roboto, 'Source Sans Pro';
+          font-size: 2.2rem;
+          font-weight: 400;
+          line-height: 1.0909090909;
+          margin: 0rem 0rem 5.089rem 0.545rem;
+          white-space: nowrap;
+
+          .billpdf-view-download-wyf-sub-0 {
+          }
+          .billpdf-view-download-wyf-sub-1 {
+            color: #2079ff;
+            font-family: Roboto, 'Source Sans Pro';
+            font-size: 2.2rem;
+            font-weight: 400;
+            line-height: 1.0909090909;
+            text-decoration-line: underline;
+          }
+          .billpdf-view-download-wyf-sub-2 {
+          }
+          .billpdf-view-download-wyf-sub-3 {
+            color: #2079ff;
+            font-family: Roboto, 'Source Sans Pro';
+            font-size: 2.2rem;
+            font-weight: 400;
+            line-height: 1.0909090909;
+            text-decoration-line: underline;
+          }
+        }
+        .taxpdf-view-download-vj7 {
+          align-items: baseline;
+          color: #000000;
+          display: flex;
+          flex-shrink: 0;
+          font-family: Roboto, 'Source Sans Pro';
+          font-size: 2.2rem;
+          font-weight: 400;
+          line-height: 1.0909090909;
+          margin-left: 0.8457rem;
+          white-space: nowrap;
+
+          .taxpdf-view-download-vj7-sub-0 {
+          }
+          .taxpdf-view-download-vj7-sub-1 {
+            color: #2079ff;
+            font-family: Roboto, 'Source Sans Pro';
+            font-size: 2.2rem;
+            font-weight: 400;
+            line-height: 1.0909090909;
+            text-decoration-line: underline;
+          }
+          .taxpdf-view-download-vj7-sub-2 {
+          }
+          .taxpdf-view-download-vj7-sub-3 {
+            color: #2079ff;
+            font-family: Roboto, 'Source Sans Pro';
+            font-size: 2.2rem;
+            font-weight: 400;
+            line-height: 1.0909090909;
+            text-decoration-line: underline;
+          }
+        }
+      }
+      .component-lottie-https-assets8lottiefilescom-packages-lf20komemhfljson-RC1 {
+        flex-shrink: 0;
+        height: 31.1rem;
+        margin-left: 0.1rem;
+        object-fit: cover;
+        vertical-align: top;
+        width: 37.2rem;
+      }
+    }
+  }
+}

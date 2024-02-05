@@ -1,0 +1,342 @@
+<div class="feedback-XCh" id="243:301">
+<div class="group-2322-kbF" id="243:302">
+<div class="group-313-KgH" id="243:303">
+<p class="up-return-xUM" id="243:317">
+Up
+
+<br/>
+Return
+
+</p>
+<div class="auto-group-ay13-vZb" id="LvgeiWPoDQ22BvhWQkAY13">
+<img class="group-2321-QzZ" src="/api/prod-ap-southeast-1-first-cluster/projects/Kc..." id="243:318"/>
+<div class="group-314-jG9" id="243:305">
+<p class="dashboard-eP7" id="243:315">Dashboard</p>
+<p class="services-tAy" id="243:314">Services</p>
+<p class="about-us-P7j" id="243:307">About us</p>
+<p class="contact-us-hPK" id="243:308">Contact us</p>
+<p class="upload-pdf-cFP" id="243:312">Upload pdf</p>
+<p class="download-pdf-WrZ" id="243:313">Download pdf</p>
+<p class="reminder-Qww" id="243:310">Reminder</p>
+<p class="feedback-Lah" id="243:309">Feedback </p>
+<p class="news-updates-rZ3" id="243:306">News &amp; Updates</p>
+<p class="gst-calculator-ytZ" id="243:316">Gst Calculator</p>
+<p class="settings-HuF" id="243:311">Settings</p>
+</div>
+</div>
+</div>
+<div class="rectangle-10-nb7" id="243:371"></div>
+<p class="feedback-Wn1" id="241:910">Feedback</p>
+<div class="rectangle-3854-1im" id="241:913"></div>
+<div class="rectangle-3855-rjP" id="243:449"></div>
+<div class="rectangle-3856-X4q" id="243:450"></div>
+<p class="isha-khatri-QeR" id="243:451">
+Isha Khatri
+
+<br/>
+</p>
+<p class="mansi-soni-WhT" id="243:452">Mansi Soni</p>
+<p class="simran-khatri-ckV" id="243:453">
+Simran Khatri
+
+<br/>
+</p>
+<p class="the-team-represents-among-the-highest-levels-of-customer-service-i-have-experienced-information-was-accurate-responses-to-queries-were-turned-around-very-fast-answers-were-clear-and-where-necessary-detailed-enough-for-us-to-make-informed-decisions-quickly-minimising-the-end-to-end-time-to-process-complex-transactions-among-a-number-of-parties-6ff" id="241:914">The team represents among the highest levels of customer service I have experienced. Information was accurate, responses to queries were turned around very fast. Answers were clear and where necessary detailed enough for us to make informed decisions quickly, minimising the end to end time to process complex transactions among a number of parties</p>
+</div>
+</div>
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+.feedback-XCh {
+  background-color: #ffffff;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .group-2322-kbF {
+    height: 100%;
+    position: relative;
+    width: 100%;
+
+    .group-313-KgH {
+      align-items: center;
+      background-color: #ebf3ff;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      height: 102.4rem;
+      left: 0;
+      padding: 4.6rem 5.2rem 33.5rem 7.4rem;
+      position: absolute;
+      top: 0;
+      width: 34.5rem;
+
+      .up-return-xUM {
+        color: #173580;
+        flex-shrink: 0;
+        font-family: Jomhuria, 'Source Sans Pro';
+        font-size: 12.8rem;
+        font-weight: 400;
+        line-height: 0.4609375;
+        margin: 0rem 0.8rem 3.3rem 0rem;
+        max-width: 21.1rem;
+      }
+      .auto-group-ay13-vZb {
+        align-items: flex-start;
+        display: flex;
+        flex-shrink: 0;
+        height: 49.2rem;
+        margin-left: 0.1rem;
+        width: calc(100% - 0.1rem);
+
+        .group-2321-QzZ {
+          flex-shrink: 0;
+          height: 48.8964rem;
+          margin-right: 3.5215rem;
+          object-fit: contain;
+          position: relative;
+          vertical-align: top;
+          width: 2.4785rem;
+        }
+        .group-314-jG9 {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          height: 100%;
+
+          .dashboard-eP7 {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin-bottom: 2.2rem;
+            white-space: nowrap;
+          }
+          .services-tAy {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .about-us-P7j {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .contact-us-hPK {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.1rem 0.1rem;
+            white-space: nowrap;
+          }
+          .upload-pdf-cFP {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .download-pdf-WrZ {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .reminder-Qww {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .feedback-Lah {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .news-updates-rZ3 {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin-bottom: 2.1rem;
+            white-space: nowrap;
+          }
+          .gst-calculator-ytZ {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.1rem 0.1rem;
+            white-space: nowrap;
+          }
+          .settings-HuF {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin-left: 0.2rem;
+            white-space: nowrap;
+          }
+        }
+      }
+    }
+    .rectangle-10-nb7 {
+      background-color: #191d46;
+      height: 11.5rem;
+      left: 34rem;
+      position: absolute;
+      top: 0;
+      width: 110rem;
+    }
+    .feedback-Wn1 {
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 5rem;
+      font-weight: 600;
+      height: 6.1rem;
+      left: 39.7rem;
+      line-height: 1.2125;
+      position: absolute;
+      top: 4rem;
+      white-space: nowrap;
+      width: 23.6rem;
+    }
+    .rectangle-3854-1im {
+      background-color: #ebf3ff;
+      border: solid 0.5rem #191d46;
+      border-radius: 3.4rem;
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+      box-sizing: border-box;
+      height: 21.8rem;
+      left: 38.4rem;
+      position: absolute;
+      top: 16.8rem;
+      width: 102.9rem;
+    }
+    .rectangle-3855-rjP {
+      background-color: #ebf3ff;
+      border: solid 0.5rem #191d46;
+      border-radius: 3.4rem;
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+      box-sizing: border-box;
+      height: 21.8rem;
+      left: 38.4rem;
+      position: absolute;
+      top: 71.4rem;
+      width: 102.9rem;
+    }
+    .rectangle-3856-X4q {
+      background-color: #ebf3ff;
+      border: solid 0.5rem #191d46;
+      border-radius: 3.4rem;
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+      box-sizing: border-box;
+      height: 21.8rem;
+      left: 38.4rem;
+      position: absolute;
+      top: 43.7rem;
+      width: 102.9rem;
+    }
+    .isha-khatri-QeR {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3.2rem;
+      font-weight: 600;
+      height: 3.9rem;
+      left: 42.6rem;
+      line-height: 1.2125;
+      position: absolute;
+      top: 19.1rem;
+      white-space: nowrap;
+      width: 16.6rem;
+    }
+    .mansi-soni-WhT {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3.2rem;
+      font-weight: 600;
+      height: 3.9rem;
+      left: 43.5rem;
+      line-height: 1.2125;
+      position: absolute;
+      top: 74.5rem;
+      white-space: nowrap;
+      width: 16.9rem;
+    }
+    .simran-khatri-ckV {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3.2rem;
+      font-weight: 600;
+      height: 3.9rem;
+      left: 42.6rem;
+      line-height: 1.2125;
+      position: absolute;
+      top: 45.9rem;
+      white-space: nowrap;
+      width: 20.9rem;
+    }
+    .the-team-represents-among-the-highest-levels-of-customer-service-i-have-experienced-information-was-accurate-responses-to-queries-were-turned-around-very-fast-answers-were-clear-and-where-necessary-detailed-enough-for-us-to-make-informed-decisions-quickly-minimising-the-end-to-end-time-to-process-complex-transactions-among-a-number-of-parties-6ff {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2rem;
+      font-weight: 600;
+      height: 9.7rem;
+      left: 44.3rem;
+      line-height: 1.2125;
+      position: absolute;
+      top: 25.2rem;
+      width: 89.4rem;
+    }
+  }
+}

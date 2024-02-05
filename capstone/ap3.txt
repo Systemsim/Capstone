@@ -1,0 +1,399 @@
+import 'package:flutter/material.dart';
+
+class Ap3 extends StatelessWidget {
+    const Ap3({super.key});
+    
+    
+    @override
+    Widget build(BuildContext context) {
+        return Scaffold(
+            body: SafeArea(
+				child: Container(
+					constraints: BoxConstraints.expand(),
+					color: Color(0xFFFFFFFF),
+					child: Column(
+						crossAxisAlignment: CrossAxisAlignment.start,
+						children: [
+							Expanded(
+								child: Container(
+									color: Color(0xFFffffff),
+									padding: EdgeInsets.only( bottom: 204),
+									width: double.infinity,
+									height: double.infinity,
+									child: SingleChildScrollView(
+										child: Column(
+											crossAxisAlignment: CrossAxisAlignment.start,
+											children: [
+												IntrinsicHeight(
+													child: Container(
+														decoration: BoxDecoration(
+															borderRadius: BorderRadius.only(
+																bottomRight: Radius.circular(40),
+																bottomLeft: Radius.circular(40),
+															),
+															color: Color(0xFF191d46),
+														),
+														padding: EdgeInsets.only( top: 41, bottom: 16, left: 24, right: 24),
+														margin: EdgeInsets.only( bottom: 66),
+														width: double.infinity,
+														child: Column(
+															crossAxisAlignment: CrossAxisAlignment.start,
+															children: [
+																Container(
+																	decoration: BoxDecoration(
+																		borderRadius: BorderRadius.circular(40),
+																		color: Color(0xFFd9d9d9),
+																	),
+																	margin: EdgeInsets.only( bottom: 5),
+																	width: 27,
+																	height: 3,
+																	child: SizedBox(),
+																),
+																Container(
+																	decoration: BoxDecoration(
+																		borderRadius: BorderRadius.circular(40),
+																		color: Color(0xFFd9d9d9),
+																	),
+																	margin: EdgeInsets.only( bottom: 5),
+																	width: 27,
+																	height: 3,
+																	child: SizedBox(),
+																),
+																IntrinsicHeight(
+																	child: Container(
+																		width: double.infinity,
+																		child: Row(
+																			crossAxisAlignment: CrossAxisAlignment.start,
+																			children: [
+																				IntrinsicHeight(
+																					child: Container(
+																						decoration: BoxDecoration(
+																							borderRadius: BorderRadius.circular(40),
+																							color: Color(0xFFd9d9d9),
+																						),
+																						margin: EdgeInsets.only( right: 46),
+																						width: 27,
+																						child: SizedBox(),
+																					),
+																				),
+																				IntrinsicHeight(
+																					child: Container(
+																						margin: EdgeInsets.only( top: 2),
+																						child: Text(
+																							'Appointment',
+																							style: TextStyle(
+																								color: Color(0xFFffffff),
+																								fontSize: 48,
+																							),
+																						),
+																					),
+																				),
+																			]
+																		),
+																	),
+																),
+															]
+														),
+													),
+												),
+												IntrinsicHeight(
+													child: Container(
+														decoration: BoxDecoration(
+															borderRadius: BorderRadius.circular(20),
+															color: Color(0xFFebf3ff),
+														),
+														padding: EdgeInsets.only( top: 33, bottom: 52),
+														margin: EdgeInsets.symmetric(horizontal: 54),
+														width: double.infinity,
+														child: Column(
+															crossAxisAlignment: CrossAxisAlignment.start,
+															children: [
+																Container(
+																	margin: EdgeInsets.only( bottom: 41, left: 13, right: 13),
+																	width: double.infinity,
+																	child: Text(
+																		'Your Appointment Consultation : ',
+																		style: TextStyle(
+																			color: Color(0xFF000000),
+																			fontSize: 20,
+																			fontWeight: FontWeight.bold,
+																		),
+																	),
+																),
+																IntrinsicHeight(
+																	child: Container(
+																		margin: EdgeInsets.only( bottom: 34, left: 17, right: 17),
+																		width: double.infinity,
+																		child: Row(
+																			children: [
+																				Container(
+																					margin: EdgeInsets.only( right: 29),
+																					width: 12,
+																					height: 12,
+																					child: Image.network(
+																						'https://i.imgur.com/1tMFzp8.png',
+																						fit: BoxFit.fill,
+																					)
+																				),
+																				Expanded(
+																					child: IntrinsicHeight(
+																						child: Container(
+																							width: double.infinity,
+																							child: Text(
+																								'Mansi Soni ',
+																								style: TextStyle(
+																									color: Color(0xFF000000),
+																									fontSize: 16,
+																								),
+																							),
+																						),
+																					),
+																				),
+																			]
+																		),
+																	),
+																),
+																IntrinsicHeight(
+																	child: Container(
+																		margin: EdgeInsets.only( bottom: 31, left: 18, right: 18),
+																		width: double.infinity,
+																		child: Row(
+																			children: [
+																				Container(
+																					margin: EdgeInsets.only( right: 27),
+																					width: 12,
+																					height: 12,
+																					child: Image.network(
+																						'https://i.imgur.com/1tMFzp8.png',
+																						fit: BoxFit.fill,
+																					)
+																				),
+																				Expanded(
+																					child: IntrinsicHeight(
+																						child: Container(
+																							width: double.infinity,
+																							child: Text(
+																								'8-12-2023',
+																								style: TextStyle(
+																									color: Color(0xFF000000),
+																									fontSize: 16,
+																								),
+																							),
+																						),
+																					),
+																				),
+																			]
+																		),
+																	),
+																),
+																IntrinsicHeight(
+																	child: Container(
+																		margin: EdgeInsets.only( bottom: 29, left: 18, right: 18),
+																		width: double.infinity,
+																		child: Row(
+																			children: [
+																				IntrinsicHeight(
+																					child: Container(
+																						padding: EdgeInsets.only( left: 7, right: 7),
+																						margin: EdgeInsets.only( right: 28),
+																						width: 12,
+																						decoration: BoxDecoration(
+																							image: DecorationImage(
+																								image: NetworkImage("https://i.imgur.com/1tMFzp8.png"),
+																								fit: BoxFit.cover
+																							),
+																						),
+																						child: Column(
+																							crossAxisAlignment: CrossAxisAlignment.start,
+																							children: [
+																								IntrinsicHeight(
+																									child: Container(
+																										decoration: BoxDecoration(
+																											border: Border.all(
+																												color: Color(0xFF4147d5),
+																												width: 1,
+																											),
+																											color: Color(0xFFd6dfff),
+																										),
+																										margin: EdgeInsets.only( top: 4),
+																										width: double.infinity,
+																										child: SizedBox(),
+																									),
+																								),
+																							]
+																						),
+																					),
+																				),
+																				Expanded(
+																					child: IntrinsicHeight(
+																						child: Container(
+																							width: double.infinity,
+																							child: Text(
+																								'9:00 AM',
+																								style: TextStyle(
+																									color: Color(0xFF000000),
+																									fontSize: 16,
+																								),
+																							),
+																						),
+																					),
+																				),
+																			]
+																		),
+																	),
+																),
+																IntrinsicHeight(
+																	child: Container(
+																		margin: EdgeInsets.only( bottom: 43, left: 19, right: 19),
+																		width: double.infinity,
+																		child: Stack(
+																			children: [
+																				Row(
+																					crossAxisAlignment: CrossAxisAlignment.start,
+																					children: [
+																						IntrinsicHeight(
+																							child: Container(
+																								decoration: BoxDecoration(
+																									border: Border.all(
+																										color: Color(0xFF4147d5),
+																										width: 1,
+																									),
+																								),
+																								margin: EdgeInsets.only( left: 4, right: 30),
+																								width: 5,
+																								child: SizedBox(),
+																							),
+																						),
+																						Expanded(
+																							child: IntrinsicHeight(
+																								child: Container(
+																									margin: EdgeInsets.only( top: 5),
+																									width: double.infinity,
+																									child: Text(
+																										'Friday',
+																										style: TextStyle(
+																											color: Color(0xFF000000),
+																											fontSize: 16,
+																										),
+																									),
+																								),
+																							),
+																						),
+																					]
+																				),
+																				Positioned(
+																					top: 1,
+																					left: 0,
+																					width: 12,
+																					height: 11,
+																					child: Container(
+																						padding: EdgeInsets.only( left: 3, right: 3),
+																						width: 12,
+																						height: 11,
+																						decoration: BoxDecoration(
+																							image: DecorationImage(
+																								image: NetworkImage("https://i.imgur.com/1tMFzp8.png"),
+																								fit: BoxFit.cover
+																							),
+																						),
+																						child: Column(
+																							crossAxisAlignment: CrossAxisAlignment.start,
+																							children: [
+																								IntrinsicHeight(
+																									child: Container(
+																										margin: EdgeInsets.only( top: 5, bottom: 2),
+																										width: double.infinity,
+																										child: Row(
+																											mainAxisAlignment: MainAxisAlignment.spaceBetween,
+																											children: [
+																												IntrinsicHeight(
+																													child: Container(
+																														width: 1,
+																														child: SizedBox(),
+																													),
+																												),
+																												IntrinsicHeight(
+																													child: Container(
+																														width: 1,
+																														child: SizedBox(),
+																													),
+																												),
+																												IntrinsicHeight(
+																													child: Container(
+																														width: 1,
+																														child: SizedBox(),
+																													),
+																												),
+																											]
+																										),
+																									),
+																								),
+																								Container(
+																									width: 1,
+																									height: 1,
+																									child: SizedBox(),
+																								),
+																							]
+																						),
+																					),
+																				),
+																				Positioned(
+																					top: 0,
+																					left: 9,
+																					width: 5,
+																					height: 2,
+																					child: Container(
+																						decoration: BoxDecoration(
+																							border: Border.all(
+																								color: Color(0xFF4147d5),
+																								width: 1,
+																							),
+																						),
+																						width: 5,
+																						height: 2,
+																						child: SizedBox(),
+																					),
+																				),
+																			]
+																		),
+																	),
+																),
+																IntrinsicHeight(
+																	child: Container(
+																		decoration: BoxDecoration(
+																			borderRadius: BorderRadius.circular(20),
+																			color: Color(0xFF2079ff),
+																		),
+																		padding: EdgeInsets.symmetric(vertical: 7),
+																		margin: EdgeInsets.symmetric(horizontal: 69),
+																		width: double.infinity,
+																		child: Column(
+																			children: [
+																				Text(
+																					'okay',
+																					style: TextStyle(
+																						color: Color(0xFFffffff),
+																						fontSize: 20,
+																					),
+																				),
+																			]
+																		),
+																	),
+																),
+															]
+														),
+													),
+												),
+											],
+										)
+									),
+								),
+							),
+						],
+					),
+				),
+			),
+			
+        );
+    }
+}

@@ -1,0 +1,320 @@
+<div class="about-us-ntu" id="241:615">
+<div class="group-2322-2oF" id="241:616">
+<div class="group-313-xB7" id="241:617">
+<p class="up-return-Nkd" id="241:631">
+Up
+
+<br/>
+Return
+
+</p>
+<div class="auto-group-7qwj-zGD" id="Lvgm2QiSqGfsfaKGv37qwj">
+<img class="group-2321-Jnh" src="/api/prod-ap-southeast-1-first-cluster/projects/Kc..." id="241:632"/>
+<div class="group-314-DPs" id="241:619">
+<p class="dashboard-X9f" id="241:629">Dashboard</p>
+<p class="services-zqs" id="241:628">Services</p>
+<p class="about-us-gyb" id="241:621">About us</p>
+<p class="contact-us-Qeh" id="241:622">Contact us</p>
+<p class="upload-pdf-hth" id="241:626">Upload pdf</p>
+<p class="download-pdf-bUH" id="241:627">Download pdf</p>
+<p class="reminder-eBf" id="241:624">Reminder</p>
+<p class="feedback-xTF" id="241:623">Feedback </p>
+<p class="news-updates-fsT" id="241:620">News &amp; Updates</p>
+<p class="gst-calculator-bWD" id="241:630">Gst Calculator</p>
+<p class="settings-7Df" id="241:625">Settings</p>
+</div>
+</div>
+</div>
+<div class="rectangle-10-bed" id="241:685"></div>
+<p class="about-us-XHP" id="241:732">About us</p>
+<div class="about-us-yfB" id="243:289">
+<div class="rectangle-51-u33" id="243:296"></div>
+<p class="dipak-khatri-C29" id="243:297">Dipak Khatri</p>
+<p class="he-is-the-founder-of-the-company-and-we-offer-services-which-are-customized-flexible-and-cost-effective-bookkeeping-taxation-payroll-processing-and-our-rates-are-standardized-and-most-competitive-5rd" id="243:298">He is the founder of the Company and we offer services which are customized, flexible and cost effective bookkeeping, Taxation, Payroll Processing and our rates are standardized and most competitive.</p>
+<p class="our-promises-Hho" id="243:299">Our Promises</p>
+<p class="we-provide-clarity-trustable-firm-valuable-relationship-with-the-clients-from-startups-to-established-enterprises-we-tailor-our-services-to-meet-the-unique-needs-of-each-client-whether-youre-seeking-tax-advice-financial-planning-or-comprehensive-accounting-solutions-weve-got-you-covered-xZ3" id="243:300">
+We provide clarity, trustable firm, valuable relationship with the clients.
+
+<br/>
+From startups to established enterprises, we tailor our services to meet the unique needs of each client. Whether you&#39;re seeking tax advice, financial planning, or comprehensive accounting solutions, we&#39;ve got you covered.
+
+</p>
+</div>
+</div>
+</div>
+
+-------------------------------------------------------------------------------------------------------------------
+
+.about-us-ntu {
+  background-color: #ffffff;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .group-2322-2oF {
+    height: 100%;
+    position: relative;
+    width: 100%;
+
+    .group-313-xB7 {
+      align-items: center;
+      background-color: #ebf3ff;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      height: 102.4rem;
+      left: 0;
+      padding: 4.6rem 4.9rem 33.804rem 7.4rem;
+      position: absolute;
+      top: 0;
+      width: 34.5rem;
+
+      .up-return-Nkd {
+        color: #173580;
+        flex-shrink: 0;
+        font-family: Jomhuria, 'Source Sans Pro';
+        font-size: 12.8rem;
+        font-weight: 400;
+        line-height: 0.4609375;
+        margin: 0rem 1.1rem 2.5rem 0rem;
+        max-width: 21.1rem;
+      }
+      .auto-group-7qwj-zGD {
+        align-items: flex-end;
+        display: flex;
+        flex-shrink: 0;
+        margin-left: 0.1rem;
+        width: calc(100% - 0.1rem);
+
+        .group-2321-Jnh {
+          flex-shrink: 0;
+          height: 48.8964rem;
+          margin-right: 3.8215rem;
+          object-fit: contain;
+          position: relative;
+          vertical-align: top;
+          width: 2.4785rem;
+        }
+        .group-314-DPs {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          margin-bottom: 0.4964rem;
+
+          .dashboard-X9f {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin-bottom: 2.2rem;
+            white-space: nowrap;
+          }
+          .services-zqs {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .about-us-gyb {
+            color: #000000;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .contact-us-Qeh {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.1rem 0.1rem;
+            white-space: nowrap;
+          }
+          .upload-pdf-hth {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .download-pdf-bUH {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .reminder-eBf {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .feedback-xTF {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .news-updates-fsT {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin-bottom: 2.1rem;
+            white-space: nowrap;
+          }
+          .gst-calculator-bWD {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.1rem 0.1rem;
+            white-space: nowrap;
+          }
+          .settings-7Df {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin-left: 0.2rem;
+            white-space: nowrap;
+          }
+        }
+      }
+    }
+    .rectangle-10-bed {
+      background-color: #191d46;
+      height: 12.1rem;
+      left: 34rem;
+      position: absolute;
+      top: 0;
+      width: 110rem;
+    }
+    .about-us-XHP {
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 5rem;
+      font-weight: 600;
+      height: 5.9rem;
+      left: 41.8rem;
+      line-height: 1.18;
+      position: absolute;
+      top: 4rem;
+      white-space: nowrap;
+      width: 21.8rem;
+    }
+    .about-us-yfB {
+      background-color: #ffffff;
+      height: 81.6rem;
+      left: 42.7rem;
+      overflow: hidden;
+      position: absolute;
+      top: 17.5rem;
+      width: 92.3rem;
+
+      .rectangle-51-u33 {
+        background-color: #ebf3ff;
+        border-radius: 2rem;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        height: 65.2rem;
+        left: 12.3rem;
+        position: absolute;
+        top: 4.9rem;
+        width: 77.1rem;
+      }
+      .dipak-khatri-C29 {
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 3.6rem;
+        font-weight: 600;
+        height: 4.4rem;
+        left: 38.2rem;
+        line-height: 1.2125;
+        position: absolute;
+        top: 10.8rem;
+        white-space: nowrap;
+        width: 21.3rem;
+      }
+      .he-is-the-founder-of-the-company-and-we-offer-services-which-are-customized-flexible-and-cost-effective-bookkeeping-taxation-payroll-processing-and-our-rates-are-standardized-and-most-competitive-5rd {
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 1.5rem;
+        font-weight: 400;
+        height: 9.1rem;
+        left: 35.7rem;
+        line-height: 1.2125;
+        position: absolute;
+        top: 18.8rem;
+        width: 30.2rem;
+      }
+      .our-promises-Hho {
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 3.6rem;
+        font-weight: 500;
+        height: 4.4rem;
+        left: 38.2rem;
+        line-height: 1.2125;
+        position: absolute;
+        top: 36.2rem;
+        white-space: nowrap;
+        width: 23.1rem;
+      }
+      .we-provide-clarity-trustable-firm-valuable-relationship-with-the-clients-from-startups-to-established-enterprises-we-tailor-our-services-to-meet-the-unique-needs-of-each-client-whether-youre-seeking-tax-advice-financial-planning-or-comprehensive-accounting-solutions-weve-got-you-covered-xZ3 {
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 1.5rem;
+        font-weight: 400;
+        height: 12.8rem;
+        left: 35.7rem;
+        line-height: 1.2125;
+        position: absolute;
+        top: 44.4rem;
+        width: 36.3rem;
+      }
+    }
+  }
+}

@@ -1,0 +1,200 @@
+import 'package:flutter/material.dart';
+
+class Reminder3 extends StatelessWidget {
+    const Reminder3({super.key});
+    
+    
+    @override
+    Widget build(BuildContext context) {
+        return Scaffold(
+            body: SafeArea(
+				child: Container(
+					constraints: BoxConstraints.expand(),
+					color: Color(0xFFFFFFFF),
+					child: Column(
+						crossAxisAlignment: CrossAxisAlignment.start,
+						children: [
+							Expanded(
+								child: Container(
+									color: Color(0xFFffffff),
+									padding: EdgeInsets.only( bottom: 159),
+									width: double.infinity,
+									height: double.infinity,
+									child: SingleChildScrollView(
+										child: Column(
+											crossAxisAlignment: CrossAxisAlignment.start,
+											children: [
+												IntrinsicHeight(
+													child: Container(
+														decoration: BoxDecoration(
+															borderRadius: BorderRadius.only(
+																bottomRight: Radius.circular(40),
+																bottomLeft: Radius.circular(40),
+															),
+															color: Color(0xFF191d46),
+														),
+														padding: EdgeInsets.only( top: 43, bottom: 14, left: 21, right: 21),
+														margin: EdgeInsets.only( bottom: 15),
+														width: double.infinity,
+														child: Column(
+															crossAxisAlignment: CrossAxisAlignment.start,
+															children: [
+																Container(
+																	decoration: BoxDecoration(
+																		borderRadius: BorderRadius.circular(40),
+																		color: Color(0xFFd9d9d9),
+																	),
+																	margin: EdgeInsets.only( bottom: 5),
+																	width: 27,
+																	height: 3,
+																	child: SizedBox(),
+																),
+																Container(
+																	decoration: BoxDecoration(
+																		borderRadius: BorderRadius.circular(40),
+																		color: Color(0xFFd9d9d9),
+																	),
+																	margin: EdgeInsets.only( bottom: 5),
+																	width: 27,
+																	height: 3,
+																	child: SizedBox(),
+																),
+																IntrinsicHeight(
+																	child: Container(
+																		width: double.infinity,
+																		child: Row(
+																			crossAxisAlignment: CrossAxisAlignment.start,
+																			children: [
+																				IntrinsicHeight(
+																					child: Container(
+																						decoration: BoxDecoration(
+																							borderRadius: BorderRadius.circular(40),
+																							color: Color(0xFFd9d9d9),
+																						),
+																						margin: EdgeInsets.only( right: 121),
+																						width: 27,
+																						child: SizedBox(),
+																					),
+																				),
+																				IntrinsicHeight(
+																					child: Container(
+																						margin: EdgeInsets.only( top: 2),
+																						child: Text(
+																							'Reminder',
+																							style: TextStyle(
+																								color: Color(0xFFffffff),
+																								fontSize: 48,
+																							),
+																						),
+																					),
+																				),
+																			]
+																		),
+																	),
+																),
+															]
+														),
+													),
+												),
+												IntrinsicHeight(
+													child: Container(
+														color: Color(0xFF5e9bff),
+														padding: EdgeInsets.only( top: 98, bottom: 6, left: 27, right: 27),
+														margin: EdgeInsets.only( bottom: 76),
+														width: double.infinity,
+														child: Column(
+															crossAxisAlignment: CrossAxisAlignment.start,
+															children: [
+																Container(
+																	margin: EdgeInsets.only( bottom: 4),
+																	child: Text(
+																		'30sept',
+																		style: TextStyle(
+																			color: Color(0xFFffffff),
+																			fontSize: 48,
+																		),
+																	),
+																),
+																Text(
+																	'Audit Due Date Reminder',
+																	style: TextStyle(
+																		color: Color(0xFFffffff),
+																		fontSize: 20,
+																	),
+																),
+															]
+														),
+													),
+												),
+												IntrinsicHeight(
+													child: Container(
+														color: Color(0xFFebf3ff),
+														padding: EdgeInsets.only( top: 24, bottom: 24, left: 34, right: 34),
+														margin: EdgeInsets.only( bottom: 25),
+														width: double.infinity,
+														child: Column(
+															crossAxisAlignment: CrossAxisAlignment.start,
+															children: [
+																Text(
+																	'Dipen patel',
+																	style: TextStyle(
+																		color: Color(0xFF000000),
+																		fontSize: 24,
+																	),
+																),
+															]
+														),
+													),
+												),
+												IntrinsicHeight(
+													child: Container(
+														color: Color(0xFFebf3ff),
+														padding: EdgeInsets.only( top: 24, bottom: 24, left: 34, right: 34),
+														margin: EdgeInsets.only( bottom: 25),
+														width: double.infinity,
+														child: Column(
+															crossAxisAlignment: CrossAxisAlignment.start,
+															children: [
+																Text(
+																	'Kirtish Sharma',
+																	style: TextStyle(
+																		color: Color(0xFF000000),
+																		fontSize: 24,
+																	),
+																),
+															]
+														),
+													),
+												),
+												IntrinsicHeight(
+													child: Container(
+														color: Color(0xFFebf3ff),
+														padding: EdgeInsets.only( top: 24, bottom: 24, left: 32, right: 32),
+														width: double.infinity,
+														child: Column(
+															crossAxisAlignment: CrossAxisAlignment.start,
+															children: [
+																Text(
+																	'Aakash patel',
+																	style: TextStyle(
+																		color: Color(0xFF000000),
+																		fontSize: 24,
+																	),
+																),
+															]
+														),
+													),
+												),
+											],
+										)
+									),
+								),
+							),
+						],
+					),
+				),
+			),
+			
+        );
+    }
+}

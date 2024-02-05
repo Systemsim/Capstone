@@ -1,0 +1,187 @@
+<div class="log-in--14q" id="203:98">
+<div class="rectangle-1-Dgh" id="229:45"></div>
+<img class="image-L2Z" src="/api/prod-ap-southeast-1-first-cluster/projects/Kc..." id="226:43"/>
+<div class="rectangle-3-SrH" id="229:46"></div>
+<p class="log-in-jKb" id="229:47">Log in</p>
+<div class="rectangle-6-Ciy" id="229:48"></div>
+<div class="rectangle-7-JX7" id="229:49"></div>
+<p class="up-return-nx5" id="226:44">
+Up
+
+<br/>
+Return
+
+</p>
+<div class="rectangle-9-Hdw" id="229:52"></div>
+<p class="dont-have-an-account--PBB" id="229:53">Don’t have an account ?</p>
+<p class="sign-up-TB3" id="229:54">Sign Up</p>
+<p class="password-wM7" id="229:55">Password</p>
+<p class="username-hUh" id="229:56">Username</p>
+<p class="log-in-xvR" id="229:57">Log in</p>
+</div>
+
+--------------------------------------
+
+.log-in--14q {
+  background-color: #191d46;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .rectangle-1-Dgh {
+    background-color: #ffffff;
+    height: 82.7rem;
+    left: 8.3rem;
+    position: absolute;
+    top: 9.9rem;
+    width: 127.4rem;
+  }
+  .image-L2Z {
+    height: 65.4rem;
+    left: 78.2rem;
+    object-fit: cover;
+    position: absolute;
+    top: 22.7rem;
+    vertical-align: top;
+    width: 49.9rem;
+  }
+  .rectangle-3-SrH {
+    background-color: #ffffff;
+    border-radius: 2rem;
+    box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+    height: 63.5rem;
+    left: 19.7rem;
+    position: absolute;
+    top: 16.5rem;
+    width: 44.2rem;
+  }
+  .log-in-jKb {
+    color: #000000;
+    font-family: Jockey One, 'Source Sans Pro';
+    font-size: 6.4rem;
+    font-weight: 400;
+    height: 9rem;
+    left: 34.7rem;
+    line-height: 1.4;
+    position: absolute;
+    top: 21.1rem;
+    white-space: nowrap;
+    width: 14.3rem;
+  }
+  .rectangle-6-Ciy {
+    background-color: #ffffff;
+    border: solid 0.5rem #173580;
+    border-radius: 1rem;
+    box-sizing: border-box;
+    height: 4.9rem;
+    left: 27.8rem;
+    position: absolute;
+    top: 37.4rem;
+    width: 28rem;
+  }
+  .rectangle-7-JX7 {
+    background-color: #ffffff;
+    border: solid 0.5rem #173580;
+    border-radius: 1rem;
+    box-sizing: border-box;
+    height: 4.9rem;
+    left: 27.8rem;
+    position: absolute;
+    top: 45.3rem;
+    width: 28rem;
+  }
+  .up-return-nx5 {
+    color: #173580;
+    font-family: Jomhuria, 'Source Sans Pro';
+    font-size: 12.8rem;
+    font-weight: 400;
+    height: 11.8rem;
+    left: 107rem;
+    line-height: 0.4609375;
+    position: absolute;
+    top: 15.2rem;
+    width: 21.1rem;
+  }
+  .rectangle-9-Hdw {
+    background-color: #0e40c1;
+    border: solid 0.5rem #0e40c1;
+    border-radius: 1rem;
+    box-sizing: border-box;
+    cursor: pointer;
+    height: 4.9rem;
+    left: 27.8rem;
+    position: absolute;
+    top: 54.1rem;
+    width: 28rem;
+  }
+  .dont-have-an-account--PBB {
+    color: #000000;
+    font-family: Lexend Zetta, 'Source Sans Pro';
+    font-size: 1.6rem;
+    font-weight: 400;
+    height: 4rem;
+    left: 29rem;
+    letter-spacing: -0.24rem;
+    line-height: 2.5;
+    position: absolute;
+    top: 62.9rem;
+    white-space: nowrap;
+    width: 25.1rem;
+  }
+  .sign-up-TB3 {
+    color: #0e40c1;
+    cursor: pointer;
+    font-family: Lexend Zetta, 'Source Sans Pro';
+    font-size: 1.6rem;
+    font-weight: 400;
+    height: 4rem;
+    left: 37.7rem;
+    letter-spacing: -0.24rem;
+    line-height: 2.5;
+    position: absolute;
+    text-decoration-line: underline;
+    top: 65.5rem;
+    white-space: nowrap;
+    width: 8rem;
+  }
+  .password-wM7 {
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    font-size: 1.6rem;
+    font-weight: 400;
+    height: 5.9rem;
+    left: 37.7rem;
+    line-height: 3.6875;
+    position: absolute;
+    top: 44.7rem;
+    white-space: nowrap;
+    width: 7.4rem;
+  }
+  .username-hUh {
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    font-size: 1.6rem;
+    font-weight: 400;
+    height: 5.9rem;
+    left: 37.7rem;
+    line-height: 3.6875;
+    position: absolute;
+    top: 37rem;
+    white-space: nowrap;
+    width: 7.8rem;
+  }
+  .log-in-xvR {
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+    font-size: 2.5rem;
+    font-weight: 600;
+    height: 5.9rem;
+    left: 37.7rem;
+    line-height: 2.36;
+    position: absolute;
+    top: 53.5rem;
+    white-space: nowrap;
+    width: 7.3rem;
+  }
+}

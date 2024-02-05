@@ -1,0 +1,330 @@
+<div class="news-updates-oZo" id="243:498">
+<div class="group-2322-Ef7" id="243:499">
+<div class="group-313-YQu" id="243:500">
+<p class="up-return-kms" id="243:514">
+Up
+
+<br/>
+Return
+
+</p>
+<div class="auto-group-a2iq-QLd" id="LvgfXz2gxxh8PFWUcta2iq">
+<img class="group-2321-is7" src="/api/prod-ap-southeast-1-first-cluster/projects/Kc..." id="243:515"/>
+<div class="group-314-So7" id="243:502">
+<p class="dashboard-Aj7" id="243:512">Dashboard</p>
+<p class="services-WK7" id="243:511">Services</p>
+<p class="about-us-cN9" id="243:504">About us</p>
+<p class="contact-us-iRB" id="243:505">Contact us</p>
+<p class="upload-pdf-oxR" id="243:509">Upload pdf</p>
+<p class="download-pdf-Kvm" id="243:510">Download pdf</p>
+<p class="reminder-1Yh" id="243:507">Reminder</p>
+<p class="feedback-75w" id="243:506">Feedback </p>
+<p class="news-updates-cYV" id="243:503">News &amp; Updates</p>
+<p class="gst-calculator-vZB" id="243:513">Gst Calculator</p>
+<p class="settings-peZ" id="243:508">Settings</p>
+</div>
+</div>
+</div>
+<div class="rectangle-10-KLR" id="243:568"></div>
+<p class="news-update-eNh" id="243:616">News &amp; Update</p>
+<div class="rectangle-3858-8Ym" id="243:618"></div>
+<img class="interface-add-square-square-remove-cross-buttons-add-plus-button-4SR" src="/api/prod-ap-southeast-1-first-cluster/projects/Kc..." id="243:619"/>
+<div class="rectangle-3859-Ze5" id="243:633"></div>
+<div class="rectangle-3860-HKB" id="243:634"></div>
+<div class="rectangle-3861-Cww" id="243:635"></div>
+<p class="save-draft-LoF" id="243:639">Save Draft</p>
+<p class="title-ENq" id="243:636">Title</p>
+<p class="write-financial-year-updates-wHF" id="243:638">Write financial year updates</p>
+</div>
+</div>
+
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+
+.news-updates-oZo {
+  background-color: #ffffff;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .group-2322-Ef7 {
+    height: 100%;
+    position: relative;
+    width: 100%;
+
+    .group-313-YQu {
+      align-items: center;
+      background-color: #ebf3ff;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      height: 102.4rem;
+      left: 0;
+      padding: 4.6rem 4.9rem 33.804rem 7.4rem;
+      position: absolute;
+      top: 0;
+      width: 34.5rem;
+
+      .up-return-kms {
+        color: #173580;
+        flex-shrink: 0;
+        font-family: Jomhuria, 'Source Sans Pro';
+        font-size: 12.8rem;
+        font-weight: 400;
+        line-height: 0.4609375;
+        margin: 0rem 1.1rem 2.5rem 0rem;
+        max-width: 21.1rem;
+      }
+      .auto-group-a2iq-QLd {
+        align-items: flex-end;
+        display: flex;
+        flex-shrink: 0;
+        margin-left: 0.1rem;
+        width: calc(100% - 0.1rem);
+
+        .group-2321-is7 {
+          flex-shrink: 0;
+          height: 48.8964rem;
+          margin-right: 3.8215rem;
+          object-fit: contain;
+          position: relative;
+          vertical-align: top;
+          width: 2.4785rem;
+        }
+        .group-314-So7 {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          margin-bottom: 0.4964rem;
+
+          .dashboard-Aj7 {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin-bottom: 2.2rem;
+            white-space: nowrap;
+          }
+          .services-WK7 {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .about-us-cN9 {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .contact-us-iRB {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.1rem 0.1rem;
+            white-space: nowrap;
+          }
+          .upload-pdf-oxR {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .download-pdf-Kvm {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .reminder-1Yh {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .feedback-75w {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.2rem 0.1rem;
+            white-space: nowrap;
+          }
+          .news-updates-cYV {
+            color: #000000;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin-bottom: 2.1rem;
+            white-space: nowrap;
+          }
+          .gst-calculator-vZB {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin: 0rem 0rem 2.1rem 0.1rem;
+            white-space: nowrap;
+          }
+          .settings-peZ {
+            color: #000000;
+            cursor: pointer;
+            flex-shrink: 0;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            margin-left: 0.2rem;
+            white-space: nowrap;
+          }
+        }
+      }
+    }
+    .rectangle-10-KLR {
+      background-color: #191d46;
+      height: 11.5rem;
+      left: 34rem;
+      position: absolute;
+      top: 0;
+      width: 110rem;
+    }
+    .news-update-eNh {
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 5rem;
+      font-weight: 600;
+      height: 6.1rem;
+      left: 40.5rem;
+      line-height: 1.2125;
+      position: absolute;
+      top: 4rem;
+      white-space: nowrap;
+      width: 37.1rem;
+    }
+    .rectangle-3858-8Ym {
+      background-color: #ebf3ff;
+      height: 56rem;
+      left: 38.9rem;
+      position: absolute;
+      top: 22rem;
+      width: 100.2rem;
+    }
+    .interface-add-square-square-remove-cross-buttons-add-plus-button-4SR {
+      height: 2.4rem;
+      left: 86.575rem;
+      object-fit: contain;
+      position: absolute;
+      top: 63.875rem;
+      vertical-align: top;
+      width: 2.4rem;
+    }
+    .rectangle-3859-Ze5 {
+      background-color: #ffffff;
+      height: 7.6rem;
+      left: 46.4rem;
+      position: absolute;
+      top: 27.2rem;
+      width: 87.7rem;
+    }
+    .rectangle-3860-HKB {
+      background-color: #ffffff;
+      height: 26.7rem;
+      left: 46.4rem;
+      position: absolute;
+      top: 40.2rem;
+      width: 86.8rem;
+    }
+    .rectangle-3861-Cww {
+      background-color: #0e40c1;
+      height: 4.3rem;
+      left: 46.5rem;
+      position: absolute;
+      top: 70.3rem;
+      width: 25.1rem;
+    }
+    .save-draft-LoF {
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.4rem;
+      font-weight: 600;
+      height: 3rem;
+      left: 53rem;
+      line-height: 1.2125;
+      position: absolute;
+      top: 71rem;
+      white-space: nowrap;
+      width: 12.2rem;
+    }
+    .title-ENq {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.4rem;
+      font-weight: 600;
+      height: 3rem;
+      left: 50.8rem;
+      line-height: 1.2125;
+      position: absolute;
+      top: 29.7rem;
+      white-space: nowrap;
+      width: 5.2rem;
+    }
+    .write-financial-year-updates-wHF {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.4rem;
+      font-weight: 600;
+      height: 3rem;
+      left: 50.8rem;
+      line-height: 1.2125;
+      position: absolute;
+      top: 43.8rem;
+      white-space: nowrap;
+      width: 32.5rem;
+    }
+  }
+}
+
